@@ -1,0 +1,19 @@
+{
+  "name": "quick-tour-polymer",
+  "description": "",
+  "main": "index.html",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-input": "PolymerElements/iron-input#~1.0.7"
+  }
+}
